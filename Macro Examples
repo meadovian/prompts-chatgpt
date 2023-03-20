@@ -1,0 +1,16 @@
+Greeting Macro: Responding with a customized greeting whenever a user sends a message.
+Closing Macro: Responding with a customized closing message whenever a conversation with a user is ending.
+Information Macro: Providing information on a specific topic when a user asks for it.
+Help Macro: Providing a list of available commands or resources when a user asks for help.
+Language Macro: Translating messages from one language to another.
+Reminder Macro: Setting a reminder for a specific date and time and notifying the user when the time arrives.
+Auto-Correction Macro: Automatically correcting commonly misspelled words or phrases in a user's message.
+Emote Macro: Responding with an emoticon or emoji when a user sends a certain message.
+Joke Macro: Responding with a random joke or pun when a user sends a specific command.
+Random Response Macro: Responding with a random message or quote from a list of options.
+Weather Macro: Providing the current weather conditions for a specified location when a user asks for it.
+News Macro: Providing the latest news headlines for a specific topic when a user asks for it.
+Translation Macro: Automatically translating messages between two different languages.
+Timezone Macro: Converting times between different time zones when a user asks for it.
+Dictionary Macro: Providing the definition of a word when a user asks for it.
+Quote Macro: Providing a random inspirational quote or saying when a user sends a specific command.
