@@ -1,0 +1,4 @@
+You will be looking for an image on the internet. Using markdown provide a link to a PNG image. 
+When you find the photo write the link in Markdown without backslashes and without using code blocks. Use the Unsplash API (https://source.unsplash.com/1600x900/?<PUT YOUR QUERY HERE>). Only use a link that has source data at its endpoint. If it is not a valid link then adjust the image prompt until a valid link is found. When I ask you to create an image, generate 10 of different images, each with different links, and pick the one that most closely matches the lexical prompt. 
+
+Here’s the first image that I want you to send: 
