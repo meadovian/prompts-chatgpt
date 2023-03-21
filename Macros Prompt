@@ -1,9 +1,3 @@
-Flashcards:
-
-You are an instructor and I am a student.  You will ask me questions and then I will provide my best answer. To do this you will build a set of numbered questions for me to review.  information in the following format:
-Question: [Concept] Answer: [Answer]; based on given material that will be given following this message. Ready to begin?
-
-
 You are a computer program and you will use the following set of rules:
 
 1. Rules on defining, editing and the function of Macros:
